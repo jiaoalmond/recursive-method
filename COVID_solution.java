@@ -1,4 +1,4 @@
-//Jinyu JIAO 260881046
+
 public class COVID {
 
 	public static void main(String[] args) {
